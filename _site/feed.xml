@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BRAIN PLUMBING</title>
+    <description>Education platform for politics, economics, philosophy and science
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 22 Aug 2016 21:46:55 +0100</pubDate>
+    <lastBuildDate>Mon, 22 Aug 2016 21:46:55 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Summaries of some important political thinkers</title>
+        <description>&lt;ul&gt;
+&lt;li&gt; Noam Chomsky &lt;/li&gt;
+&lt;li&gt; Slavoj Zizek &lt;/li&gt;
+&lt;li&gt; David Runciman &lt;/li&gt;
+&lt;li&gt; Francis Fukuyama &lt;/li&gt;
+&lt;li&gt; Ange-Marie Hancock&lt;/li&gt;
+&lt;li&gt; Melissa Harris-Perry&lt;/li&gt;
+&lt;li&gt; Bell Hooks&lt;/li&gt;
+&lt;li&gt; Zilah Eisenstein&lt;/li&gt;
+&lt;li&gt; Thomas Ferguson&lt;/li&gt;
+&lt;li&gt; John Gray &lt;/li&gt;
+&lt;li&gt; Peter Sloterdijk&lt;/li&gt;
+&lt;li&gt; George Monbiot&lt;/li&gt;
+&lt;li&gt; Marilyn Waring (Move to economist page) &lt;/li&gt;
+&lt;li&gt; Camille Paglia&lt;/li&gt;
+&lt;li&gt; Gloria Steinem&lt;/li&gt;
+&lt;li&gt; Adam Curtis&lt;/li&gt;
+&lt;li&gt; Amartya Sen&lt;/li&gt;
+&lt;li&gt; Murray Bookchin&lt;/li&gt;
+&lt;li&gt; David Graeber&lt;/li&gt;
+&lt;li&gt; Medhi Hasan&lt;/li&gt;
+&lt;li&gt; E. P. Thompson &lt;/li&gt;
+&lt;li&gt; Edward Said&lt;/li&gt;
+&lt;li&gt; Naomi Klein&lt;/li&gt;
+&lt;li&gt; &lt;/li&gt;
+&lt;li&gt; &lt;/li&gt;
+&lt;li&gt; &lt;/li&gt;
+&lt;li&gt; &lt;/li&gt;
+&lt;li&gt; &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 22 Aug 2016 11:38:56 +0100</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2016/08/22/politicalThinkers.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/08/22/politicalThinkers.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
